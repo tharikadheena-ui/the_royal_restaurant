@@ -1,0 +1,9 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define MAX_TABLES 10
+#define MAX_CUSTOMERS 50
+#define MAX_ORDERS 100
+#define MAX_KITCHEN_STATIONS 5
+
+#endif

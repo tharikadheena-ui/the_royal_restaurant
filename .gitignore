@@ -1,0 +1,16 @@
+# Compiled C files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Debug / Valgrind files
+vgcore.*
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
